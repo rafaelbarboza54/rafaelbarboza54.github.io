@@ -1,0 +1,76 @@
+body{
+  background-image: url("005.jpg");
+ background-size: cover;
+ background-size:500px 500px;
+}
+  
+h1{color: white;
+  background-color: cadetblue;
+  height: 100px;
+  width: 900px;
+  border-radius: 2px;
+  font-size: 60px;
+  box-shadow: 5px 5px darkblue;
+  text-indent: 20px;
+}
+  
+*{
+  font-family: arial;
+  font-size: 25px;
+  text-align: justify;
+}
+
+#imagen{
+  height: 100px;
+  width: 101px;
+  border-radius:2px;
+  float: left;
+}
+p.parafo{
+  text-indent: 20px;
+}
+p{
+  color: white;
+  background-color: cadetblue ;
+  box-shadow: 5px 5px darkblue;
+  margin: 10px;
+}
+
+#imagen1{
+  height: 400px;
+  width: 420px;
+}
+#imagen2{
+  height: 400px;
+  width: 450px;
+}
+#imagen3{
+  height: 400px;
+  width: 420px;
+}
+#imagen4{
+  height: 400px;
+  width: 450px;
+  float: right;
+}
+p.imagenes{
+  background-color: black;
+  margin: 40px;
+  box-shadow: 10px 10px darkblue;
+}
+
+a.link{
+  color: chartreuse;
+}
+
+
+
+
+
+
+
+
+
+
+
+
